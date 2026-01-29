@@ -24,5 +24,5 @@ This study presents the iterative development of a flood inundation model, trans
 
 ---
 **Author:** Hanieh BaradaranMohammadi  
-**Supervisors:** Prof. Dr. Antara Dasgupta, Paula Wessling da Silva, Eva-Lotte Schriewer  
+**Supervisors:** Prof. Dr. Antara Dasgupta, Paula Wessling da Silva, Eva-Lotte Schriewer  RWTH Aachen University
 **Institution:** Integrated Master Project - From Maps to Models (Summer Semester 2025)
